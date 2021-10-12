@@ -213,7 +213,7 @@ oauth2client==4.1.3
 oauthlib==3.1.0
 okgrade==0.4.3
 olefile==0.46
-opencv-contrib-python==3.4.3.18
+opencv-contrib-python==3.4.7.28
 opencv-python==3.4.7.28
 openpyxl==2.5.9
 opt-einsum==3.1.0
