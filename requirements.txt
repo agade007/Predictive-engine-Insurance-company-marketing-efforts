@@ -25,7 +25,7 @@ branca==0.3.1
 bs4==0.0.1
 bz2file==0.98
 cachetools==3.1.1
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.13.2
 chainer==6.5.0
 chardet==3.0.4
